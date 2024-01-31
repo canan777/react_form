@@ -1,0 +1,71 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aqua;
+  color: black;
+  padding: 15px 25px;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+nav{
+  display: flex;
+  gap: 40px;
+}
+
+nav a{
+  color: black;
+}
+
+header div{
+  display: flex;
+  gap: 10px;
+
+}
+
+.user-login {
+  background-color: greenyellow;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.admin-login{
+  background-color: orangered; 
+  color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.my-button{
+  color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  margin: 15px auto;
+  gap: 40px;
+  border: 1px solid rgb(35, 21, 81);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+form input {
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+  max-width: 100%;
+}
+
+form div{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
