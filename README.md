@@ -1,6 +1,20 @@
 # react_form
 ## home page
 
+📈This project is a simple form application developed using React. 
+
+✨This application asks the user to enter their  fırat name, last name and age and then prints the entered information to the console when the  form is submitted. 
+
+🛠 used technologies:
+
+📌HTML
+
+📌CSS
+
+📌JavaScript
+
+📌React
+
 <img src="./public/react-form.gif"/>
 
 
